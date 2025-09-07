@@ -6,7 +6,7 @@ This project is a **3-page responsive website** (Home + Contact+ Admin) built as
 ---
 
 ## Live Demo
-[Live Website netlify](https://akhileshservice.netlify.app/)
+[Live Website netlify](https://akhileshservice.netlify.app/) and
 [Live website vercel](https://service-website-react-sigma.vercel.app/)
 
 ## GitHub Repository
