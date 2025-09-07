@@ -1,12 +1,13 @@
 # Web Developer Assignment – Aurastha Digital Marketing
 
 ## Overview
-This project is a **2-page responsive website** (Home + Contact) built as part of the Web Developer assignment for Aurastha Digital Marketing. The website showcases **services**, **testimonials**, and includes a **contact form** with validation. It’s built using **React** and deployed on **Netlify/Vercel**.
+This project is a **3-page responsive website** (Home + Contact+ Admin) built as part of the Web Developer assignment for Aurastha Digital Marketing. The website showcases **services**, **testimonials**, and includes a **contact form** with validation and a Admin Login page. It’s built using **React** and deployed on **Netlify & Vercel**.
 
 ---
 
 ## Live Demo
-[Live Website](https://akhileshservice.netlify.app/)
+[Live Website netlify](https://akhileshservice.netlify.app/)
+[Live website vercel](https://service-website-react-sigma.vercel.app/)
 
 ## GitHub Repository
 [GitHub Repo](https://github.com/itz-akhilesh/Service-Website-React)
@@ -51,7 +52,7 @@ I started by planning the layout and wireframes for Home and Contact pages. Comp
 
 ## Submission
 
-- **Live Website:** [Insert Live URL]  
-- **GitHub Repo:** [Insert Repo URL]  
-- **Tools Used:** React, Vite, CSS, Netlify/Vercel, JSONPlaceholder API  
-- **Deadline:** [Insert Deadline]
+- **Live Website:** [https://service-website-react-sigma.vercel.app/]   and [https://akhileshservice.netlify.app/]
+- **GitHub Repo:** [https://github.com/itz-akhilesh/Service-Website-React]  
+- **Tools Used:** React, Bun, Vite, CSS, Netlify/Vercel, JSONPlaceholder API  
+- **Deadline:** [8 sept]
