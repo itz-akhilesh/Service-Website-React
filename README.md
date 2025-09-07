@@ -14,6 +14,17 @@ This project is a **3-page responsive website** (Home + Contact+ Admin) built as
 
 ---
 
+## Screenshots
+
+### Google page speed dev
+![score](images/pagespeeddev.png)
+
+
+
+
+
+
+
 ## Features
 
 - **Responsive Design:** Works seamlessly on desktop, tablet, and mobile devices.  
