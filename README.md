@@ -43,6 +43,10 @@ This project is a **3-page responsive website** (Home + Contact+ Admin) built as
 - **Deployment:** Netlify / Vercel  
 
 ---
+## Screenshots
+
+### Home Page
+![Home Page](images/screenshot.png)
 
 ## Approach
 
