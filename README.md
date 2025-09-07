@@ -30,7 +30,8 @@ This project is a **3-page responsive website** (Home + Contact+ Admin) built as
 - **Responsive Design:** Works seamlessly on desktop, tablet, and mobile devices.  
 - **Services Section:** Includes Web Development, UI/UX Design, and SEO Optimization with card layouts.  
 - **Testimonials Section:** Displays customer feedback with ratings.  
-- **Contact Form:** Simple form with input validation for name, email, and message.  
+- **Contact Form:** Simple form with input validation for name, email, and message.
+- **Admin Section:** Login page with demo user password.
 - **Hero Section:** Eye-catching hero banner with background image.  
 - **SPA Routing:** All pages handled with `react-router-dom`, with `_redirects` (Netlify) and `vercel.json` (Vercel) ensuring proper navigation.
 
